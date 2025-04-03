@@ -7,4 +7,4 @@ Taken from the kaggle dataset, this interactive tool empowers consumers by provi
 
 ### Dashboard Build
 
-My final dashboard is in [Excel_Car_Data_Analytics](Excel_Car_Data_Analytics)
+My final dashboard is in [Excel_Car_Data_Analytics](Car_Price_Dashboard.xlsx)
