@@ -7,4 +7,14 @@ Taken from the kaggle dataset, this interactive tool empowers consumers by provi
 
 ### Dashboard Build
 
-My final dashboard is in [Excel_Car_Data_Analytics](Car_Price_Dashboard.xlsx)
+My final dashboard is [Excel_Car_Data_Analytics](Car_Price_Dashboard.xlsx)
+
+### Excel Skills Used
+
+The following Excel skills were utilized for analysis:
+
+- **Charts and Formatting**
+- **Formulas and Functions**
+- **Data Validation**
+
+### 
